@@ -52,7 +52,7 @@ spotify-clone/
 1️⃣ Clone the repository
 
 
-git clone https://github.com/rimisoni22-ux/spotify-clone.git
+git clone https://github.com/rimisoni22-ux/Spotify_Clone.git
 
 
 2️⃣ Open the folder
